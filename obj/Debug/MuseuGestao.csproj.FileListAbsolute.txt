@@ -1,0 +1,6 @@
+C:\Users\Heidy\Desktop\MuseuGestao\bin\Debug\MuseuGestao.exe
+C:\Users\Heidy\Desktop\MuseuGestao\bin\Debug\MuseuGestao.pdb
+C:\Users\Heidy\Desktop\MuseuGestao\obj\Debug\MuseuGestao.csprojAssemblyReference.cache
+C:\Users\Heidy\Desktop\MuseuGestao\obj\Debug\MuseuGestao.csproj.CoreCompileInputs.cache
+C:\Users\Heidy\Desktop\MuseuGestao\obj\Debug\MuseuGestao.exe
+C:\Users\Heidy\Desktop\MuseuGestao\obj\Debug\MuseuGestao.pdb
